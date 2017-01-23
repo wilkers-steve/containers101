@@ -1,0 +1,47 @@
+In order to help individuals get up to speed with a basic understanding
+of containers and related technology, I've gathered my favorite list of
+posts/materials
+
+1) https://puppet.com/resources/ebook/containers-101
+
+   This 'free' ebook from Puppet gives a high level view of the concepts
+   related to containers. I've always been a Puppet fan, and some of their
+   points here are valid and can help give a better view of the bigger
+   picture.
+
+2) https://prakhar.me/docker-curriculum/
+
+   This tutorial helped me get up to speed with Docker, and it allows you
+   an opportunity to get your hands dirty with some easy Docker commands
+   that still give you an idea of the important bits. I feel this post is a
+   great springboard for diving deeper into Docker. It includes an easy to
+   follow example with a web service application on AWS.
+
+3) https://docs.docker.com/engine/getstarted/
+
+   The Docker getting started guide is a great next step for those looking
+   to explore deeper into the concepts talked about in Prakhar's getting
+   started tutorial. I found this walk-through to be very valuable.
+
+4) https://docs.docker.com/compose/gettingstarted/
+
+   This guide gives you an opportunity to play with Docker Compose. I
+   feel getting some experience with Docker Compose is great before trying
+   to tackle an orchestration platform, like Kubernetes
+
+5) https://www.youtube.com/watch?v=4ht22ReBjno
+
+   This video does a stellar job at explaining the concepts behind Kubernetes
+   in a way that is both meaningful and easy to digest. I feel this video is
+   the best springboard for jumping into Kubernetes fresh.
+
+6) https://github.com/kubernetes/minikube
+
+   Minikube is the go-to platform for developers to use in Kubernetes development.
+   It's lightweight, simple, and still gives you experience with the fundamentals.
+
+7) https://www.udacity.com/course/scalable-microservices-with-kubernetes--ud615
+
+   This free Udacity course is fantastic. It gives an understanding of the concepts
+   of Kubernetes without being overly intidimating. This is by far one of my favorite
+   links for those looking to get started, and bonus: it's Kelsey Hightower.
